@@ -17,11 +17,12 @@
 </p>
    
 <p>   
- 
+    <div>
     <audio controls>
         <source src="giper_benz.mp3" type="audio/mpeg">
         Ваш браузер не поддерживает воспроизведение аудио.
     </audio>
+    </div>
 </p>
 
 
