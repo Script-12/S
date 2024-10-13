@@ -5,10 +5,10 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 </head>
 <body align="center">
-
+   
       <!-- Ваше основное содержимое -->
       <font color="black"><h1><big><i>GIP</i></big></h1></font>
-    </div>
+   
   </div>
     <h1>Play GIP</h1>
     <audio controls>
