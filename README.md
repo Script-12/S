@@ -12,7 +12,6 @@
       <source src="jj.mp4" type="video/mp4">
       Ваш браузер не поддерживает видео.
     </video> 
-    <div style="position: relative; z-index: 1; color: white; text-align: center; padding-top: 20px;">
  </div>
 </p>
    
