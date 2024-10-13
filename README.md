@@ -3,7 +3,6 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    
 </head>
 <body align="center">
  <div>
@@ -11,13 +10,13 @@
       <!-- Вставьте сюда название вашего видео -->
       <source src="jj.mp4" type="video/mp4">
       Ваш браузер не поддерживает видео.
-    </video>
+    </video> 
     <div style="position: relative; z-index: 1; color: white; text-align: center; padding-top: 20px;">
       <!-- Ваше основное содержимое -->
-      <font color="black"><h1><big><i>Гибно денз</i></big></h1></font>
+      <font color="black" size=+3><h1><big><i>GIP</i></big></h1></font>
     </div>
   </div>
-    <h1>Включить песню "Гипер Бенз"</h1>
+    <h1>Play GIP</h1>
     <audio controls>
         <source src="giper_benz.mp3" type="audio/mpeg">
         Ваш браузер не поддерживает воспроизведение аудио.
