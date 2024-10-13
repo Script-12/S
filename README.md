@@ -5,6 +5,15 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 </head>
 <body align="center">
+<p>
+     <div>
+    <video autoplay muted loop style="position: fixed; right: 0; bottom: 0; min-width: 100%; min-height: 100%;">
+      <!-- Вставьте сюда название вашего видео -->
+      <source src="jj.mp4" type="video/mp4">
+      Ваш браузер не поддерживает видео.
+    </video> 
+    <div style="position: relative; z-index: 1; color: white; text-align: center; padding-top: 20px;">
+</p>
    
       <!-- Ваше основное содержимое -->
       <font color="black"><h1><big><i>GIP</i></big></h1></font>
@@ -17,15 +26,7 @@
     </audio>
 </p>
 
-<p>
-     <div>
-    <video autoplay muted loop style="position: fixed; right: 0; bottom: 0; min-width: 100%; min-height: 100%;">
-      <!-- Вставьте сюда название вашего видео -->
-      <source src="jj.mp4" type="video/mp4">
-      Ваш браузер не поддерживает видео.
-    </video> 
-    <div style="position: relative; z-index: 1; color: white; text-align: center; padding-top: 20px;">
-</p>
+
 
 
 
